@@ -15,3 +15,6 @@ this project will make the use of i2c with AVR  MCUs very easy and will help to 
 
 
 https://rn-wissen.de/wiki/index.php/TWI_Slave_mit_avr-gcc
+
+
+https://www.mikrocontroller.net/articles/AVR_TWI
