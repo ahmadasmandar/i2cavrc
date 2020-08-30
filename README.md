@@ -9,3 +9,9 @@ this project will make the use of i2c with AVR  MCUs very easy and will help to 
 ## include Platformio libs:
         just make alle C files have the same extension either .c or .cpp they both will work without any problem ..
         
+        
+        Peter Fleury Online
+## http://www.peterfleury.epizy.com/index.html
+
+
+https://rn-wissen.de/wiki/index.php/TWI_Slave_mit_avr-gcc
